@@ -59,6 +59,9 @@ I'm still working on this project. Some features I'd like to add are:
 
 ## Screenshot
 
+![Black-Wall AI](assets/ss.png)
+
+![LM Studio](assets/sslm.png)
 
 ## Author
 
