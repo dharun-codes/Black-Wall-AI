@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title shown in the browser tab -->
+    <title>Local AI Chatbot</title>
+
+    <!-- Link to our CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="chatbot-container">
+
+        <!-- Header -->
+        <header>
+            <h1>🤖 Black-Wall AI</h1>
+        </header>
+
+        <!-- Chat messages will appear here -->
+        <div class="messages">
+
+            <div class="message ai">
+                Hello! I'm your local AI assistant. How can I help you today?
+            </div>
+
+        </div>
+
+        <!-- Input section -->
+        <div class="input-area">
+
+            <input
+                type="text"
+                id="user-input"
+                placeholder="Type your message..."
+            >
+
+            <button id="send-btn">
+                Send
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
