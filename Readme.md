@@ -63,6 +63,10 @@ I'm still working on this project. Some features I'd like to add are:
 
 ![LM Studio](images/sslm.png)
 
+## Why the name?
+
+The name **Black-Wall AI** is inspired by the Blackwall from *Cyberpunk 2077*. I liked the concept of a digital barrier protecting networks, and it felt like a fitting name for a local AI assistant.
+
 ## Author
 
 **Dharun Kumar**
